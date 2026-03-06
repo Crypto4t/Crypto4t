@@ -14,6 +14,9 @@ Name: Crypto 4T
 Symbol: 4T  
 Network: Binance Smart Chain (BEP-20)
 
+Total Supply:
+30,000,000,000
+
 Contract Address:
 0x86C86A84004FA803161b3444088a74809BA3b1F4
 
@@ -34,6 +37,7 @@ Track price and liquidity on Dexscreener.
 
 Website: https://www.4tcrypto.com
 https://bscscan.com/address/0x86C86A84004FA803161b3444088a74809BA3b1F4#code
+https://github.com/Crypto4T/Cripto4T
 
 Dexscreener: https://dexscreener.com/bsc/0x166c23036af1354c7260e1e0544eaeba2b731c50
 
